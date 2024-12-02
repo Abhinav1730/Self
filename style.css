@@ -1,0 +1,15 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+button {
+  display: flex;
+  font-size: 30px;
+  margin: 0 auto;
+  margin-top: 30px;
+  border-radius: 20px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
